@@ -17,3 +17,7 @@
 ### Одновременное обучение
 
 - `bertCrf_2heads.ipynb` - обучение BERT c использованием модели [DeepPavlov/rubert-base-cased](https://huggingface.co/DeepPavlov/rubert-base-cased) и CRF от [pytorch](https://pytorch-crf.readthedocs.io/en/stable/) с эмбеддингами в качестве признаков и расчёт метрик качества
+
+### Для использования
+
+Подготовленные датасет и модели размещены на [Goggle диске](https://drive.google.com/drive/folders/1sWzzMMwWCCDXkGBA4eDm4DNnKhk0C_Wb).
