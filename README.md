@@ -20,4 +20,4 @@
 
 ### Для использования
 
-Подготовленные датасет и модели размещены на [Goggle диске](https://drive.google.com/drive/folders/1sWzzMMwWCCDXkGBA4eDm4DNnKhk0C_Wb).
+Подготовленные датасет и модели размещены на [Google диске](https://drive.google.com/drive/folders/1sWzzMMwWCCDXkGBA4eDm4DNnKhk0C_Wb).
